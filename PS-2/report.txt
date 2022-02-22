@@ -1,0 +1,23 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: C:/KursachRuchki/ps2.vhd
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        19        17         2    89.47%
+    Conditions                       4         2         2    50.00%
+    Expressions                     32         2        30     6.25%
+    Statements                      45        45         0   100.00%
+
+=================================================================================
+=== File: C:/KursachRuchki/test.vhd
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Statements                      20        20         0   100.00%
+
+
+Total Coverage By File (code coverage only, filtered view): 62.06%
+

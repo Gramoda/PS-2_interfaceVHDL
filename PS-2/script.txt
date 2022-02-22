@@ -1,0 +1,2 @@
+vlog -covertport 3 +cover +acc ps2.v test.v
+vsim -coverage -vhdopt work.test -c -do "coverage save -onexit -directive -codeAll test.ucdb; run -all"
