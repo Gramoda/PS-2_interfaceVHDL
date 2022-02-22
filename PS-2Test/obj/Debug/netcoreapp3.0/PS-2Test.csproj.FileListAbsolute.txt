@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.exe
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.deps.json
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.runtimeconfig.json
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.runtimeconfig.dev.json
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.dll
+C:\Users\User\source\repos\PS-2Test\bin\Debug\netcoreapp3.0\PS-2Test.pdb
+C:\Users\User\source\repos\PS-2Test\obj\Debug\netcoreapp3.0\PS-2Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PS-2Test\obj\Debug\netcoreapp3.0\PS-2Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PS-2Test\obj\Debug\netcoreapp3.0\PS-2Test.AssemblyInfo.cs
+C:\Users\User\source\repos\PS-2Test\obj\Debug\netcoreapp3.0\PS-2Test.dll
+C:\Users\User\source\repos\PS-2Test\obj\Debug\netcoreapp3.0\PS-2Test.pdb
